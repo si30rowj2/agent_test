@@ -1,16 +1,5 @@
 {
   "servers": {
-    // "dbhub": {
-    //   "command": "npx",
-    //   "args": [
-    //     "-y",
-    //     "@bytebase/dbhub@latest",
-    //     "--transport",
-    //     "stdio",
-    //     "--dsn",
-    //     "sqlite:///C:/data/dev/claude_code_test/db/database.db"
-    //   ]
-    // },
     "dbhub": {
       "command": "npx",
       "args": [
@@ -18,7 +7,7 @@
         "--transport",
         "stdio",
         "--dsn",
-        "sqlite:///C:/data/dev/claude_code_test/db/database.db"
+        "sqlite:///C:/data/dev/agent_test/db/database.db"
       ]
     }
   }
