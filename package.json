@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@bytebase/dbhub": "^0.21.2",
+    "better-sqlite3": "^12.8.0"
+  }
+}

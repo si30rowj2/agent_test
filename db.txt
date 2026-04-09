@@ -1,0 +1,10 @@
+データベース構成:
+
+テーブル: history
+  - id: INTEGER (PRIMARY KEY)
+  - value: INTEGER
+
+テーブル: sqlite_sequence
+  - name: 
+  - seq: 
+

@@ -1,0 +1,10 @@
+---
+name: db-test
+description: db/database.dbのテーブルの操作や参照を求められたとき
+---
+
+# 概要
+MPCサーバ #dbhub を利用して、db/database.dbのテーブルに関して指示を行った操作や参照を行ってください。
+
+# ルール
+DBアクセスするスクリプトは、実行後に削除願います。
